@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andydoc
-- 👀 I’m interested in DataScience, Algotrading, Python, MT4/5
-- 🌱 I’m currently learning MQL5
+- 👀 I’m interested in DataScience, Algotrading, Python, MT4/5, app development
+- 🌱 I’m currently learning MQL5 and Flutter
 - 💞️ I’m looking to collaborate on Algotrading
 - 📫 How to reach me andydoc1@gmail.com, or @andydoc1 on Telegram
 
